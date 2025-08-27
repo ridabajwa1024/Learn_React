@@ -1,70 +1,114 @@
-# Getting Started with Create React App
+# 🚀 React Learning Topics
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This file contains the **complete list of React topics** that I will cover from **basic to advanced**.  
+I will build a **mini project** for each topic to strengthen my concepts and track my progress.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🔹 Basics
+1. Introduction to React & Environment Setup  
+2. JSX (JavaScript XML)  
+3. Components (Functional & Class)  
+4. Props  
+5. State  
+6. Event Handling  
+7. Conditional Rendering  
+8. Lists & Keys  
+9. Forms & Controlled Components  
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🔹 Core Hooks
+10. useState  
+11. useEffect  
+12. useRef  
+13. useReducer  
+14. useContext  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🔹 Advanced Hooks & Patterns
+15. Custom Hooks  
+16. React.memo  
+17. useCallback  
+18. useMemo  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🔹 Routing
+19. React Router (Basics)  
+20. Dynamic Routing (Route Params)  
+21. Nested Routes  
+22. Navigation (Link, NavLink, useNavigate)  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🔹 Advanced Concepts
+23. Context API (Global State)  
+24. Error Boundaries  
+25. Portals  
+26. Fragments  
+27. StrictMode  
+28. Code Splitting & Lazy Loading (React.lazy, Suspense)  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🔹 State Management
+29. Redux (Basics)  
+30. Redux Toolkit  
+31. Middleware (Redux Thunk, Redux Saga)  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔹 API & Data Handling
+32. Fetch API / Axios  
+33. Async/Await in React  
+34. React Query (TanStack Query)  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔹 Styling in React
+35. Inline Styles  
+36. CSS Modules  
+37. Styled Components  
+38. Tailwind CSS with React  
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🔹 Performance Optimization
+39. Virtual DOM Concept  
+40. Reconciliation  
+41. Pure Components  
+42. Performance Optimization with Hooks  
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 🔹 Testing
+43. Jest (Unit Testing)  
+44. React Testing Library (RTL)  
+45. Snapshot Testing  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🔹 TypeScript + React
+46. TypeScript with React Basics  
+47. Typing Props & State  
+48. Custom Types for Components  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🔹 Real-World Integrations
+49. Authentication (Firebase/Auth0)  
+50. File Uploads & Storage  
+51. Payments Integration (Stripe/PayPal)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 🔹 Deployment
+52. Netlify Deployment  
+53. Vercel Deployment  
+54. GitHub Pages Deployment  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+✨ *Goal: Complete each topic with a small project and move step by step toward becoming a React master.*
