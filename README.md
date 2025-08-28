@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🚀 React Learning Topics
 
 This file contains the **complete list of React topics** that I will cover from **basic to advanced**.  
