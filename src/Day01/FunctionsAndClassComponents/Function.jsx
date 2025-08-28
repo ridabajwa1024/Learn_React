@@ -19,4 +19,20 @@ function FunctionColor(){
     </>
   )
 }
-export default FunctionColor;
+// ...rest operator
+function Car({color, brand, ...rest}) {
+  return (
+    <>
+ <h2>My {brand} {rest.model} is {color} and price is {rest.price}!</h2>
+  
+    </>
+  );
+
+
+}
+function CarProp(){
+  return(
+    <Car color="black" brand = "corola" model ="XXL" price = "$1200"/>
+  );
+};
+export { FunctionColor, CarProp };
