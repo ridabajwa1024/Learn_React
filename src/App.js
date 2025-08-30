@@ -3,7 +3,9 @@
 // import TodoList from "./Day01/Todo.jsx";
 // import Click from "./Day02/Events.jsx";
 // import Filehandle from "./Filehandle.jsx";
-import FileManager from "./uploading.jsx";
+// import FileManager from "./uploading.jsx";
+// import EventsInreact from "./Day04/EventsInreact"
+import Conditionals from "./Day04/Conditionals";
 function App() {
   return (
     <>
@@ -13,7 +15,9 @@ function App() {
       {/* <TodoList/> */}
       {/* <Click/> */}
       {/* <Filehandle/> */}
-      <FileManager/>
+      {/* <FileManager/> */}
+      {/* <EventsInreact/> */}
+      <Conditionals/>
     </>
   );
 }
