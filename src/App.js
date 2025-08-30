@@ -6,7 +6,9 @@
 // import FileManager from "./uploading.jsx";
 // import EventsInreact from "./Day04/EventsInreact"
 import Conditionals from "./Day04/Conditionals";
-import List from "./Day04/list";
+import List from "./Day04/listPractice/list";
+import List1 from "./Day04/listPractice/list1";
+import List2 from "./Day04/listPractice/List2";
 function App() {
   return (
     <>
@@ -20,6 +22,8 @@ function App() {
       {/* <EventsInreact/> */}
       <Conditionals/>
       <List/>
+      <List1/>
+      <List2/>
     </>
   );
 }

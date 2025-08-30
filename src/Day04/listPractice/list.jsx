@@ -8,7 +8,7 @@ function List() {
     "Orange",
   ]);
 
-  // delete function
+  // delete function (component ke andar define karo, useEffect me nahi)
   const del = (delFruit) => {
     setdelete(delt.filter((fruit) => fruit !== delFruit));
   };
