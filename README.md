@@ -153,5 +153,3 @@ If you’re also learning React, feel free to connect!
 Together, we can grow, build projects, and become **better developers**.  
 
 ---
-✨ *This repo is more than code — it’s proof of my passion for learning React from zero to pro.*  
->>>>>>> 199fdfcd2e8368f0fb3cc63028e90f27c739f641
