@@ -5,13 +5,18 @@
 // import Filehandle from "./Filehandle.jsx";
 // import FileManager from "./uploading.jsx";
 // import EventsInreact from "./Day04/EventsInreact"
-import Conditionals from "./Day04/Conditionals";
-import List from "./Day04/listPractice/list";
-import List1 from "./Day04/listPractice/list1";
-import List2 from "./Day04/listPractice/List2";
+// import Conditionals from "./Day04/Conditionals";
+// import List from "./Day04/listPractice/list";
+// import List1 from "./Day04/listPractice/list1";
+import Form from "./Day06/Form.jsx";
+// import FramerMotion from "./Day05/FramerMotion";
+
+// import List2 from "./Day04/listPractice/List2";
+
 function App() {
   return (
     <>
+    {/* <FramerMotion/> */}
       {/* <FunctionColor/> */}
       {/* <CarProp/> */}
       {/* <UserCard/> */}
@@ -20,10 +25,11 @@ function App() {
       {/* <Filehandle/> */}
       {/* <FileManager/> */}
       {/* <EventsInreact/> */}
-      <Conditionals/>
+      {/* <Conditionals/>
       <List/>
       <List1/>
-      <List2/>
+      <List2/> */}
+      <Form/>
     </>
   );
 }
