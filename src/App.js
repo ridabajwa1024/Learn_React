@@ -8,7 +8,7 @@
 // import Conditionals from "./Day04/Conditionals";
 // import List from "./Day04/listPractice/list";
 // import List1 from "./Day04/listPractice/list1";
-import Selectlist from "./Day06/Selectlist";
+// import Selectlist from "./Day06/Selectlist";
 // import Form from "./Day06/Form.jsx";
 // import FramerMotion from "./Day05/FramerMotion";
 // import List2 from "./Day04/listPractice/List2";
@@ -30,7 +30,7 @@ function App() {
       <List1/>
       <List2/> */}
       {/* <Form/> */}
-      <Selectlist/>
+      {/* <Selectlist/> */}
     </>
   );
 }
